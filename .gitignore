@@ -1,8 +1,11 @@
 .env
 lab.txt
 labs/
+.venv/
+.venv*/
 .pytest_cache/
 __pycache__/
+**/__pycache__/
 *.pyc
 .DS_Store
 state/
